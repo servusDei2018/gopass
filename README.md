@@ -11,7 +11,7 @@ To avoid having the user remember each and every password, we generate needed pa
  - 100% Cross Platform
 
 ## Installation
-To install gopass, either download one of the prebuilt binaries from the [releases page]() or run:
+To install gopass, either download one of the prebuilt binaries from the [releases page](https://github.com/servusDei2018/gopass/releases) or run:
 
 `go install -i github.com/servusDei2018/gopass/cmd/gopass`
 
