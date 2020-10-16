@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/servusdei2018/gopass"
+	"github.com/servusDei2018/gopass"
 )
 
 var (
