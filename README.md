@@ -41,7 +41,7 @@ $ gopass -pwd password -uid github -len 66
 #### Library
 It's simple to add gopass functionality to your Go program:
 
-```
+```go
 package main
 
 import (
